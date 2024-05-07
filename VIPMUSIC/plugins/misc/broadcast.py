@@ -191,7 +191,7 @@ async def broadcast_from_cloned_bots(query, y, x):
                 bot_token=bot_token,)
             await ai.start()
 
-    clonechats = []
+    clonechats = [],
     cusr = []
     sclonechats = 0
     scusr = 0
